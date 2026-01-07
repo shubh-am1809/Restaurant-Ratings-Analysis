@@ -1,3 +1,5 @@
+Task: Restaurant Ratings Analysis
+
 Objective:
 Analyze the distribution of aggregate ratings, identify the most common
 rating range, and calculate the average number of votes.
